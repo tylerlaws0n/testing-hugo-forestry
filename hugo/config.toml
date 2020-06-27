@@ -1,0 +1,65 @@
+baseURL = "/"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "theme"
+title = "CBD Companies"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "ourwork"
+name = "Our Work"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[params]
+address = "4 Keith Way, Suite 3 <br> Hingham, MA, 02043"
+author = "Jeffrey Lawson"
+copyright = "Copyrighht &copy; 2020 CBD Companies"
+description = "Commercial Construction and Office Furniture"
+email = "sales@cbdinteriors.net"
+fax = "617-391-2881"
+google_analytics_id = "UA-166692372-1"
+hero = "images/hero.jpg"
+home = "Home"
+logo = "images/logo-white.svg"
+phone = "781-267-7624"
+show_social = false
+theme_color = "#65d132"
+[params.contact]
+enable = false
+form_action = "#"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/fontawesome/css/all.min.css"
+[[params.plugins.css]]
+URL = "plugins/flaticon/flaticon.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[params.preloader]
+enable = false
+preloader = ""
+[[params.social]]
+URL = "#"
+icon = "ti-facebook"
+[[params.social]]
+URL = "#"
+icon = "ti-instagram"
+[[params.social]]
+URL = "#"
+icon = "ti-dribbble"
+[[params.social]]
+URL = "#"
+icon = "ti-twitter-alt"
