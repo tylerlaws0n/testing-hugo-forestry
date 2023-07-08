@@ -52,7 +52,7 @@
     "postcss-scss": "^1.0.2",
     "precss": "^2.0.0",
     "run-sequence": "^2.2.1",
-    "stylelint": "^8.2.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-sass-guidelines": "^4.0.1",
     "stylelint-config-standard": "^17.0.0",
     "stylelint-no-unsupported-browser-features": "^1.0.1",
